@@ -3,3 +3,4 @@ Hello this is a git introduction
 contributors:
 
 - forloopZambia 
+- Chanzy
