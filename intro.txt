@@ -1,2 +1,6 @@
 Hello this is a git introduction
-Chanzy
+
+contributors:
+
+- forloopZambia 
+- Chanzy
